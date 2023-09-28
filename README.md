@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="#" style="width: 100%" />
 </div>  
   
-
-### <div align="center">I'm Sathveegan Yogendrarajah, a Computer Science and Engineering student | Passionate about coding, collaboration, and innovation. 🚀</div>  
+<h1 align="center">Hi 👋, I'm Sathveegan Yogendrarajah,</h1>
+### <div align="center">A Computer Science and Engineering student | Passionate about coding, collaboration, and innovation. 🚀</div>  
   
 
 - 🔭 I’m currently working on [Hotel and Restaurant Managment Information System]()  
