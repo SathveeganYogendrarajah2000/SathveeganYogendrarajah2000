@@ -3,7 +3,7 @@
 </div>  
   
 <h1 align="center">Hi 👋, I'm Sathveegan Yogendrarajah,</h1>
-### <div align="center">A Computer Science and Engineering student | Passionate about coding, collaboration, and innovation. 🚀</div>  
+<div align="center">A Computer Science and Engineering student | Passionate about coding, collaboration, and innovation. 🚀</div>  
   
 
 - 🔭 I’m currently working on [Hotel and Restaurant Managment Information System]()  
