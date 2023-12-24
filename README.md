@@ -4,12 +4,8 @@
   
 <h1 align="center">Hi 👋, I'm Sathveegan Yogendrarajah,</h1>
 <div align="center">A Computer Science and Engineering student | Passionate about coding, collaboration, and innovation. 🚀</div>  
-  
 
-- 🔭 I’m currently working on [Hotel and Restaurant Managment Information System](https://github.com/SathveeganYogendrarajah2000/click)  
-  
-
-- 🌱 I’m currently learning React, ReactNative, Redux, NodeJS, Jest, Firebase and MongoDB.  
+- 🌱 I’m currently learning Golang (Go Fiber) and postgreSQL.  
   
 
 - ❓ Ask me about anything related to Full Stack Web development and related technologies  
